@@ -1,0 +1,5 @@
+DROP TABLE IF EXISTS users_versions;
+
+DROP TABLE IF EXISTS users;
+
+DROP TABLE IF EXISTS avatars;
